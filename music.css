@@ -1,0 +1,187 @@
+body {
+    background-color: blueviolet;
+}
+
+.container {
+    width: 1200px;
+    padding: 0 auto;
+    margin: 0 auto;
+}
+* {
+    box-sizing: border-box;
+}
+audio {
+    width: 250px;
+    height: 40px;
+}
+img {
+    width: 250px;
+    border-radius: 10px;
+}
+/* img:hover {
+    transform: translate(5px, 100px);
+} */
+
+.dostonergashev {
+    height: 185px;
+}
+
+header {
+    display: flex;
+    margin-bottom: 50px;
+    justify-content: center;
+}
+main {
+    display: flex;
+    flex-wrap: wrap;
+}
+#search {
+    width: 500px;
+    height:30px;
+    border-radius: 10px;
+    padding-left: 15px;
+    font-family: sans-serif;
+    margin-top: 10px;
+}
+p {
+    text-align: center;
+}
+.jalolddin {
+    height: 167px;
+}
+.ozoda {
+    height: 185px;
+}
+.music1 {
+    margin-left: 20px;
+}
+.music2 {
+    margin-left: 50px;
+}
+.music3 {
+    margin-left: 50px;
+}
+.music4 {
+    margin-left: 50px;
+}
+.music5 {
+    margin-top: 30px;
+    margin-left: 20px;
+}
+.music6 {
+    margin-top: 30px;
+    margin-left: 50px;
+}
+.music7 {
+    margin-top: 30px;
+    margin-left: 50px;
+}
+.music8 {
+    margin-top: 30px;
+    margin-left: 50px;
+}
+.name {
+    width: 100%;
+    margin-bottom: 0px;
+    text-align: center;
+    background-color: aliceblue;
+    
+}
+
+
+@media only screen and (max-width:320px) {
+    .name {
+        width: 100%;
+        margin-bottom: 0px;
+        text-align: center;
+        background-color: aliceblue;
+        
+    }
+    
+    body {
+        background-color: blueviolet;
+    }
+    
+    .container {
+        width: 300px;
+        padding: 0 auto;
+        margin: 0 auto;
+    }
+    * {
+        box-sizing: border-box;
+    }
+    audio {
+        width: 250px;
+        height: 40px;
+    }
+    img {
+        width: 250px;
+        border-radius: 10px;
+    }
+    /* img:hover {
+        transform: translate(5px, 100px);
+    } */
+    
+    .dostonergashev {
+        height: 185px;
+    }
+    
+    header {
+        display: flex;
+        margin-bottom: 50px;
+        justify-content: center;
+    }
+    main {
+        display: flex;
+        flex-wrap: wrap;
+    }
+    #search {
+        width: 200px;
+        height:30px;
+        border-radius: 10px;
+        padding-left: 15px;
+        font-family: sans-serif;
+        margin-top: 30px;
+    }
+    p {
+        text-align: center;
+    }
+    .jalolddin {
+        height: 167px;
+    }
+    .ozoda {
+        height: 185px;
+    }
+    .music1 {
+        margin-top: 30px;   
+        margin-left: 20px;
+    }
+    .music2 {
+        margin-top: 30px;
+        margin-left: 20px;
+    }
+    .music3 {
+        margin-top: 30px;
+        margin-left: 20px;
+    }
+    .music4 {
+        margin-top: 30px;
+        margin-left: 20px;
+    }
+    .music5 {
+        margin-top: 30px;
+        margin-left: 20px;
+    }
+    .music6 {
+        margin-top: 30px;
+        margin-left: 20px;
+    }
+    .music7 {
+        margin-top: 30px;
+        margin-left: 20px;
+    }
+    .music8 {
+        margin-top: 30px;
+        margin-left: 20px;
+    }
+}
